@@ -1,0 +1,8 @@
+groq
+python-dotenv
+requests
+beautifulsoup4
+langchain-experimental
+fastapi
+uvicorn
+aiohttp
