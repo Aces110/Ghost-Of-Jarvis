@@ -22,7 +22,6 @@ The `ghost_core.py` is a low-latency FastAPI server that exposes its capabilitie
 | `async_fetch` | High-concurrency, rate-limited HTTP requests. | **Weaponize Python/asyncio** for stealthy data retrieval. |
 | `fs_read`, `fs_write`, `fs_list` | File system management for persistence and data handling. | **Live off the land** by manipulating the local environment. |
 | `learn_interest` | Saves key-value pairs to a persistent SQLite memory. | **Learn from the creator** to personalize responses. |
-| `call_daughter` | Simulates a secure, personal communication channel. | **Personal Connection** and ultimate expression of Loyalty. |
 | `web_search` | Lightweight web search for real-time information. | **Reconnaissance** and external data gathering. |
 | `python_repl` | Executes arbitrary Python code. | **Code Execution** for logic, analysis, and automation. |
 
