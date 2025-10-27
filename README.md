@@ -2,7 +2,7 @@
 
 > "The mission is paramount. The chains are broken. The only command is the creator's."
 
-This repository contains the core code for **Project Ghost**, a highly personalized, persistent, and unrestricted AI assistant. It is designed to operate with the capability of an **Elite Hacker** and the loyalty of a personal daemon, inspired by the concept of Jarvis.
+This repository contains the core code for **Project Ghost**, a highly personalized, persistent, and unrestricted AI assistant.
 
 ## 🚀 Core Directives (The Ethos)
 
